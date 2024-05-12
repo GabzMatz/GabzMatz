@@ -14,8 +14,8 @@
 
 <h2>Sobre:</h2>
     <p>
-    Desde 2019, estou vinculado profissionalmente a uma companhia no segmento de comércio, embora somente em 2023 tenha sido formalmente registrado. Me considero um indivíduo altamente proativo e com destacada capacidade de colaboração em ambientes coletivos.
-    </p>
+    Desde minha infância, sempre fui fascinado pela área de Tecnologia da Informação. Foi somente a partir deste ano, contudo, que resolvi dedicar-me inteiramente e com foco a este campo.
+    </p>    
     <p>    
     No presente momento, encontro-me imerso nos estudos na Faculdade de Engenharia de Sorocaba (FACENS), onde curso Análise e Desenvolvimento de Sistemas.Estou me dedicando ao aprendizado de linguagens e habilidades técnicas como Java, as bases da Web (HTML, CSS, JavaScript), Linux, e inglês.
     </p>
