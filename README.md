@@ -15,7 +15,9 @@
 <h2>Sobre:</h2>
     <p>
     Desde 2019, estou vinculado profissionalmente a uma companhia no segmento de comércio, embora somente em 2023 tenha sido formalmente registrado. Me considero um indivíduo altamente proativo e com destacada capacidade de colaboração em ambientes coletivos.
-        No presente momento, encontro-me imerso nos estudos na Faculdade de Engenharia de Sorocaba (FACENS), onde curso Análise e Desenvolvimento de Sistemas.Estou me dedicando ao aprendizado de linguagens e habilidades técnicas como Java, as bases da Web (HTML, CSS, JavaScript), Linux, e inglês. Adicionalmente, possuo uma sólida compreensão dos princípios de versionamento de código utilizando git/github.
+    </p>
+    <p>    
+    No presente momento, encontro-me imerso nos estudos na Faculdade de Engenharia de Sorocaba (FACENS), onde curso Análise e Desenvolvimento de Sistemas.Estou me dedicando ao aprendizado de linguagens e habilidades técnicas como Java, as bases da Web (HTML, CSS, JavaScript), Linux, e inglês.
     </p>
 
 
