@@ -12,8 +12,7 @@
 
 </div>
 
-
-## Sobre:
+<h1>Sobre:</h1>
     <p>
     Desde 2019, estou vinculado profissionalmente a uma companhia no segmento de comércio, embora somente em 2023 tenha sido formalmente registrado. Me considero um indivíduo altamente proativo e com destacada capacidade de colaboração em ambientes coletivos.
 
