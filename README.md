@@ -11,10 +11,6 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img align="center" alt="jQuerry" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"><img align="center" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 </div>
-<br><br>
-<img align="right" height="150" src="https://cdn.dribbble.com/users/22930/screenshots/3754176/media/3aa409bd5550246d63249d85392bca9a.gif"  />
-<br><br>
-
 <h2>Sobre:</h2>
     <p>
     Desde minha infância, sempre fui fascinado pela área de Tecnologia da Informação. Foi somente a partir deste ano, contudo, que resolvi dedicar-me inteiramente e com foco a este campo.
