@@ -4,6 +4,8 @@
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabzMatz&show_icons=true&theme=tokyonight)
 
+<img align="right" height="150" src="https://cdn.dribbble.com/users/22930/screenshots/3754176/media/3aa409bd5550246d63249d85392bca9a.gif"  />
+
 ## Tecnologias
 <div style="display:inline block">
 
